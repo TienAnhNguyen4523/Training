@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+https://go.microsoft.com/fwlink/?LinkID=208121.
+-->
+<Project>
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <_PublishTargetUrl>D:\ASP.NET_MVC\PublishedAPI</_PublishTargetUrl>
+    <History>False|2024-08-06T03:52:14.2033530Z;False|2024-08-06T10:51:02.3007433+07:00;True|2024-08-06T09:56:04.4108428+07:00;</History>
+    <LastFailureDetails />
+  </PropertyGroup>
+  <ItemGroup>
+    <DestinationConnectionStrings Include="DefaultConnection">
+      <Value>Data Source=MSI\SQLEXPRESS%3bInitial Catalog=Training%3bIntegrated Security=True%3bTrusted_Connection=True%3bTrustServerCertificate=True%3b</Value>
+    </DestinationConnectionStrings>
+  </ItemGroup>
+</Project>

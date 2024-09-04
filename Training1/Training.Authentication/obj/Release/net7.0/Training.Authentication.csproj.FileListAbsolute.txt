@@ -1,0 +1,12 @@
+D:\ASP.NET_MVC\Training1\Training1\Training.Authentication\bin\Release\net7.0\Training.Authentication.deps.json
+D:\ASP.NET_MVC\Training1\Training1\Training.Authentication\bin\Release\net7.0\Training.Authentication.dll
+D:\ASP.NET_MVC\Training1\Training1\Training.Authentication\bin\Release\net7.0\Training.Authentication.pdb
+D:\ASP.NET_MVC\Training1\Training1\Training.Authentication\obj\Release\net7.0\Training.Authentication.csproj.AssemblyReference.cache
+D:\ASP.NET_MVC\Training1\Training1\Training.Authentication\obj\Release\net7.0\Training.Authentication.GeneratedMSBuildEditorConfig.editorconfig
+D:\ASP.NET_MVC\Training1\Training1\Training.Authentication\obj\Release\net7.0\Training.Authentication.AssemblyInfoInputs.cache
+D:\ASP.NET_MVC\Training1\Training1\Training.Authentication\obj\Release\net7.0\Training.Authentication.AssemblyInfo.cs
+D:\ASP.NET_MVC\Training1\Training1\Training.Authentication\obj\Release\net7.0\Training.Authentication.csproj.CoreCompileInputs.cache
+D:\ASP.NET_MVC\Training1\Training1\Training.Authentication\obj\Release\net7.0\Training.Authentication.dll
+D:\ASP.NET_MVC\Training1\Training1\Training.Authentication\obj\Release\net7.0\refint\Training.Authentication.dll
+D:\ASP.NET_MVC\Training1\Training1\Training.Authentication\obj\Release\net7.0\Training.Authentication.pdb
+D:\ASP.NET_MVC\Training1\Training1\Training.Authentication\obj\Release\net7.0\ref\Training.Authentication.dll

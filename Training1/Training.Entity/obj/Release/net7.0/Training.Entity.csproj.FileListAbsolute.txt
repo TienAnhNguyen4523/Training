@@ -1,0 +1,12 @@
+D:\ASP.NET_MVC\Training1\Training1\Training.Entity\bin\Release\net7.0\Training.Entity.deps.json
+D:\ASP.NET_MVC\Training1\Training1\Training.Entity\bin\Release\net7.0\Training.Entity.dll
+D:\ASP.NET_MVC\Training1\Training1\Training.Entity\bin\Release\net7.0\Training.Entity.pdb
+D:\ASP.NET_MVC\Training1\Training1\Training.Entity\obj\Release\net7.0\Training.Entity.csproj.AssemblyReference.cache
+D:\ASP.NET_MVC\Training1\Training1\Training.Entity\obj\Release\net7.0\Training.Entity.GeneratedMSBuildEditorConfig.editorconfig
+D:\ASP.NET_MVC\Training1\Training1\Training.Entity\obj\Release\net7.0\Training.Entity.AssemblyInfoInputs.cache
+D:\ASP.NET_MVC\Training1\Training1\Training.Entity\obj\Release\net7.0\Training.Entity.AssemblyInfo.cs
+D:\ASP.NET_MVC\Training1\Training1\Training.Entity\obj\Release\net7.0\Training.Entity.csproj.CoreCompileInputs.cache
+D:\ASP.NET_MVC\Training1\Training1\Training.Entity\obj\Release\net7.0\Training.Entity.dll
+D:\ASP.NET_MVC\Training1\Training1\Training.Entity\obj\Release\net7.0\refint\Training.Entity.dll
+D:\ASP.NET_MVC\Training1\Training1\Training.Entity\obj\Release\net7.0\Training.Entity.pdb
+D:\ASP.NET_MVC\Training1\Training1\Training.Entity\obj\Release\net7.0\ref\Training.Entity.dll
